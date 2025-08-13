@@ -127,9 +127,9 @@ Projects:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: English
-  - name: Japanese
+# languages:
+#   - name: English
+#   - name: Japanese
 ---
 
 ## About Me
