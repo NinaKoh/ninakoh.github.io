@@ -33,8 +33,8 @@ profiles:
   - icon: brands/devpost
     url: https://devpost.com/NinaKoh
 
-Projects:
-  - Ninigrams
+# Projects:
+#   - Ninigrams
 
 # Education:
 #   - area: PhD Artificial Intelligence
