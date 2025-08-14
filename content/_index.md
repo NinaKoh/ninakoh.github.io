@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: /assets/media/bamboo.jpg
+          filename: assets/media/bamboo.jpg
           filters:
             brightness: 1.0
           size: cover
