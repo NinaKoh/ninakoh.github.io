@@ -57,10 +57,10 @@ sections:
     id: projects
     content:
       title: Projects
+      use_page_links: false
       filters:
         folders:
           - project
-        use_page_links: false
         # featured_only: true
     design:
       view: article-grid
