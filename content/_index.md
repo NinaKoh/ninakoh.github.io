@@ -60,7 +60,8 @@ sections:
       filters:
         folders:
           - project
-        featured_only: true
+        use_page_links: false
+        # featured_only: true
     design:
       view: article-grid
       columns: 2
